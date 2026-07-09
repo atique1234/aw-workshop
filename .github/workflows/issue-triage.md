@@ -53,5 +53,3 @@ If the issue is a duplicate, spam, or clearly not actionable, call `noop` with a
 - Use `add-labels` to apply exactly one label
 - Use `add-comment` to post the triage comment
 - Use `noop` with a brief reason when no action is warranted
-
-Additionally, close the issue after triaging it.
